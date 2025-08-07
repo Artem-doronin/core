@@ -1,3 +1,5 @@
+package collection;
+
 import java.lang.reflect.Array;
 
 public class ArrayFilter {
