@@ -1,4 +1,4 @@
-package StreamApi;
+package StreamApi.StreamCollectorsExample;
 
 import java.util.List;
 import java.util.Map;
@@ -25,5 +25,6 @@ public class StreamCollectorsExample {
                 .collect(Collectors.toList());
 
         System.out.println(products);
+
     }
 }

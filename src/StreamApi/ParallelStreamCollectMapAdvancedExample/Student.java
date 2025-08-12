@@ -1,4 +1,4 @@
-package StreamApi;
+package StreamApi.ParallelStreamCollectMapAdvancedExample;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package StreamApi;
+package StreamApi.StreamCollectorsExample;
 
 public class Order {
     private String product;
